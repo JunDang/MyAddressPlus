@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="designations">
+        <item>@string/mr</item>
+        <item>@string/ms</item>
+        <item>@string/mrs</item>
+        <item>@string/dr</item>
+    </string-array>
+
+</resources>

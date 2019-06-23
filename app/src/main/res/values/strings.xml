@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MyAddressPlus</string>
+
+
+    <!-- DEFAULT initial case when running the MyAddressPlus APP -->
+    <string name="no_addresses">Currently there are no addresses.</string>
+
+    <!-- Context menu items / Options menu items -->
+    <string name="menu_insert">Add Address</string>
+    <string name="menu_delete">Delete Address </string>
+    <string name="summary">Summary</string>
+    <string name="description">Delete Address</string>
+
+    <!-- Address details Activity String resources-->
+    <string name="edit_summary">Summary</string>
+    <string name="edit_description">Description</string>
+    <string name="edit_confirm">Confirm</string>
+
+
+    <string name="provinces">Provinces</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="address">Address</string>
+    <string name="country">Country</string>
+    <string name="postalcode">Postal Code</string>
+
+    <string name="ontario">Ontario</string>
+    <string name="alberta">Alberta</string>
+    <string name="quebec">Quebec</string>
+    <string name="manitoba">Manitoba</string>
+    <string name="saskatchewan">Saskatchewan</string>
+    <string name="britishColumbia">British Columbia</string>
+    <string name="yukon">Yukon</string>
+    <string name="nunavut">Nunavut</string>
+    <string name="northwestTerritories">Northwest Territories</string>
+    <string name="newBrunswick">New Brunswick</string>
+    <string name="novaScotia">Nova Scotia</string>
+    <string name="princeEdwardisland">Prince-Edward Island</string>
+    <string name="Newfoundland">Newfoundland</string>
+
+    <string name="mr">Mr.</string>
+    <string name="ms">Ms.</string>
+    <string name="mrs">Mrs.</string>
+    <string name="dr">Dr.</string>
+
+    <string name="about">about</string>
+    <string name="insert">insert</string>
+    <string name="about_message">" "</string>
+    <string name="about_description">MyAddressPlus is a nice and simple Android Application that
+        allows a user to query/insert/update/delete his home address
+        . It is written for android API 11 or newer. It supports Tablets.</string>
+
+
+</resources>
